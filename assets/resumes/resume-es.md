@@ -10,7 +10,7 @@ Ingeniero Senior de Infraestructura IT con más de tres décadas de experiencia 
 ## Experiencia
 
 ### ZOI Tech
-**Senior Infrastructure Tech Lead**
+**Senior Infrastructure Tech Lead**  
 Diciembre 2025 - Presente | Remoto   
 - Arquitectura e implementación de soluciones multicloud (AWS, Azure, GCP) con foco en IaaS, contenedores (Docker, Kubernetes) y serverless
 - Automatización de infraestructura mediante Terraform y pipelines de IaC, garantizando consistencia y documentación
