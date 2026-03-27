@@ -9,6 +9,15 @@ Senior IT Infrastructure Engineer with over three decades of experience speciali
 
 ## Experience
 
+### ZOI Tech
+**Senior Infrastructure Tech Lead**
+December 2025 - Present | Remote
+- Architecture and implementation of multi-cloud solutions (AWS, Azure, GCP) with a focus on IaaS, containers (Docker, Kubernetes), and serverless
+- Infrastructure automation using Terraform and IaC pipelines, ensuring consistency and documentation
+- Technical leadership and mentorship to engineering teams, ensuring best practices, security, and high performance
+- Integration of security controls and compliance requirements throughout the infrastructure lifecycle
+- Driving innovation and continuous improvement through evaluation of emerging technologies and automation policies
+
 ### Eurofins
 **Senior Cloud/OnPrem Architect / Engineer**  
 May 2022 - Present (3 years 6 months) | Catalonia, Spain  

@@ -9,6 +9,15 @@ Engenheiro Sênior de Infraestrutura de TI com mais de três décadas de experi�
 
 ## Experiência
 
+### ZOI Tech
+**Tech Lead Sênior de Infraestrutura**
+Dezembro 2025 - Presente | Remoto
+- Arquitetura e implementação de soluções multicloud (AWS, Azure, GCP) com foco em IaaS, containers (Docker, Kubernetes) e serverless
+- Automação de infraestrutura utilizando Terraform e pipelines de IaC, garantindo consistência e documentação
+- Liderança técnica e mentoria para equipes de engenharia, assegurando melhores práticas, segurança e alto desempenho
+- Integração de controles de segurança e requisitos de conformidade em todo o ciclo de vida da infraestrutura
+- Impulso à inovação e melhoria contínua por meio da avaliação de novas tecnologias e políticas de automação
+
 ### Eurofins
 **Arquiteto/Engenheiro Sênior Cloud/OnPrem**  
 Maio 2022 - Presente (3 anos 6 meses) | Catalunha, Espanha  
